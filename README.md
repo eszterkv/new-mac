@@ -43,6 +43,7 @@ brew install wget
 brew install ack
 brew install yarn
 brew install vim
+brew install ripgrep
 
 brew cask install iterm2
 
