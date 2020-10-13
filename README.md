@@ -7,6 +7,7 @@
 - settings:
   - trackpad -> tap to click, scroll & zoom not natural
   - a11y -> pointer control -> trackpad options -> enable 3-finger drag
+  - system preferences -> search for dns servers -> add dns server 1.1.1.1
 - download and install latest version of Xcode from the Mac App Store.
 - `xcode-select --install`
 
