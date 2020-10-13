@@ -60,14 +60,20 @@ set zsh as default shell:
 `chsh -s /bin/zsh`
 
 - get nvm + install some node versions
-- put installed vim version aliased into .zshrc
-- .gitconfig
+- get howdoi
 - setup /etc/hosts as per https://someonewhocares.org/hosts/
 
 ## services & tokens
 
+### passwords & web
+- log in to bitwarden, add to ff
+- ublock origin
+
 ### git
-generate tokens, revoke unused
+- generate tokens, revoke unused
+- get dotfiles
+- put installed vim version aliased into .zshrc
+- .gitconfig
 
 ### vercel
 `vercel login`
