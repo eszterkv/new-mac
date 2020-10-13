@@ -48,8 +48,6 @@ brew install yarn
 brew install vim
 brew install ripgrep
 
-brew cask install iterm2
-
 # browsers
 brew cask install firefox
 brew cask install google-chrome
