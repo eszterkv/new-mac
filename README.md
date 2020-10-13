@@ -1,12 +1,14 @@
 # new-mac
 
-## prep
+## system
 
-- Download and install latest version of Xcode from the Mac App Store.
+- sign in to icloud
+  - untick everything but icloud drive, photos and find my mac
+- settings:
+  - trackpad -> tap to click, scroll & zoom not natural
+  - a11y -> pointer control -> trackpad options -> enable 3-finger drag
+- download and install latest version of Xcode from the Mac App Store.
 - `xcode-select --install`
-
-## ui
-- icloud sign in
 
 ### app store
 - bitwarden
