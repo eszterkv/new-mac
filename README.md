@@ -83,3 +83,4 @@ set zsh as default shell:
 # Disable the sound effects on boot
 sudo nvram SystemAudioVolume=" "
 ```
+- set up prey
