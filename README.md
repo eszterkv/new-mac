@@ -32,6 +32,8 @@ ui settings
 - disable animations:  
   `defaults write -g NSAutomaticWindowAnimationsEnabled -bool false`
 
+[install go](https://golang.org/doc/install)
+
 ## cli
 
 - get oh-my-zsh
