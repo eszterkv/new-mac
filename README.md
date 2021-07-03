@@ -44,6 +44,7 @@ ui settings
 get stuff with brew:
 ```
 brew install git
+brew install github/gh/gh
 brew install node
 brew install wget
 brew install ack
