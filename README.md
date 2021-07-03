@@ -2,6 +2,7 @@
 
 ## system
 
+- make sure i have the latest OS
 - sign in to icloud
   - untick everything but icloud drive, photos and find my mac
 - settings:
