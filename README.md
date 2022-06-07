@@ -80,7 +80,8 @@ set zsh as default shell:
 - .gitconfig
 
 ### vercel
-`vercel login`
+- `npm i -g vercel`
+- `vercel login`
 
 ## other stuff
 ```
