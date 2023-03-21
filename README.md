@@ -9,13 +9,11 @@
   - trackpad -> tap to click, scroll & zoom not natural
   - a11y -> pointer control -> trackpad options -> enable 3-finger drag
   - system preferences -> search for dns servers -> add dns server 1.1.1.1
-- download and install latest version of Xcode from the Mac App Store.
+- ~download and install latest version of Xcode from the Mac App Store.~
 - `xcode-select --install`
 
 ### app store
-- bitwarden
-- bear writer
-- slack
+- ~slack~
 - amphetamine
 
 finder
@@ -69,8 +67,8 @@ set zsh as default shell:
 
 ## services & tokens
 
-### passwords & web
-- log in to bitwarden, add to ff
+### firefox add-ons
+- bitwarden
 - ublock origin
 
 ### git
