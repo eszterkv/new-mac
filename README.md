@@ -3,11 +3,12 @@
 ## system
 
 - make sure i have the latest OS
+- swap esc<>caps (settings -> keyboard -> shortcuts -> modifiers)
 - sign in to icloud
   - untick everything but icloud drive, photos and find my mac
 - settings:
   - trackpad -> tap to click, scroll & zoom not natural
-  - a11y -> pointer control -> trackpad options -> enable 3-finger drag
+  - a11y -> trackpad options -> enable 3-finger drag
   - system preferences -> search for dns servers -> add dns server 1.1.1.1
 - ~download and install latest version of Xcode from the Mac App Store.~
 - `xcode-select --install`
@@ -44,15 +45,14 @@ get stuff with brew:
 brew install git
 brew install gh
 brew install node
-brew install wget
 brew install ack
 brew install yarn
 brew install vim
 brew install ripgrep
 
 # browsers
-brew cask install firefox
-brew cask install google-chrome
+brew install firefox --cask
+brew install google-chrome --cask
 
 # others
 brew cask install vlc
@@ -62,8 +62,9 @@ set zsh as default shell:
 `chsh -s /bin/zsh`
 
 - get nvm + install some node versions
-- get howdoi
 - setup /etc/hosts as per https://someonewhocares.org/hosts/
+- get openai cli (`pip install openai` + in zshrc: `export OPENAI_API_KEY={key}` + `alias gpt="openai api chat.completions.create -g user"`)
+- get cursor
 
 ## services & tokens
 
@@ -74,8 +75,8 @@ set zsh as default shell:
 ### git
 - generate tokens, revoke unused
 - get dotfiles
-- put installed vim version aliased into .zshrc
 - .gitconfig
+- (probably not necessary) put installed vim version aliased into .zshrc
 
 ### vercel
 - `npm i -g vercel`
